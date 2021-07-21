@@ -1,2 +1,0 @@
-# EjercitacionGit
-agregando readMe test
